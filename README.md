@@ -1,3 +1,11 @@
+# viiopen notes
+
+forked from https://github.com/plantuml/plantuml-server
+
+## Additions
+
+Added interface which generates diagrams as you work, instead of when you submit the UML text.
+
 PlantUML Server 
 ===============
 [![Build Status](https://travis-ci.org/plantuml/plantuml-server.png?branch=master)](https://travis-ci.org/plantuml/plantuml-server)
